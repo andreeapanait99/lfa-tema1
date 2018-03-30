@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1521749645 source:d:\documents\facultate\lfa\tema1\main.cpp
+	<iostream>
+	<string.h>
+	<fstream>
+	<vector>
+
+1521749646 source:g:\lfa\tema1\main.cpp
+	<iostream>
+	<string.h>
+	<fstream>
+	<vector>
+
+1521786050 source:f:\lfa\tema1\main.cpp
+	<iostream>
+	<string.h>
+	<fstream>
+	<vector>
+
